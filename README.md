@@ -1,4 +1,4 @@
-CS student at the University of Texas at Austin. Know Java and currently learning Python, C, R, and HTML. Open to anything! 🎉
+I'm a CS student at the University of Texas at Austin. I know Java and currently learning Python, C, R, and HTML. Open to anything! 🎉
 
 
 <!--
