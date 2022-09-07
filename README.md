@@ -1,4 +1,5 @@
-### Hi there 👋
+CS student at the University of Texas at Austin. Know Java and currently learning Python, C, and HTML. Open to anything! 🎉
+
 
 <!--
 **yuddanti/yuddanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
